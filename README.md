@@ -37,67 +37,83 @@ Splatoon2プレイ中の画像セット。[kamiyaowl/splat-scene-detect](https:/
 
 # battle_finish
 バトル終了直後のKeep Outみたいなテープが出ている画面
+
 ![image-battle_finish](https://github.com/kamiyaowl/splat-scene-dataset/raw/master/battle_finish/WIN_20181022_15_12_23_Pro-00000608.jpg)
 
 # battle_loby
 ロビー画面すべて
+
 ![image-battle_loby](https://github.com/kamiyaowl/splat-scene-dataset/raw/master/battle_loby/WIN_20181022_23_13_19_Pro-00001669.jpg)
 
 # battle_matching
 バトル全般でのマッチング中画面
+
 ![image-battle_matching](https://github.com/kamiyaowl/splat-scene-dataset/raw/master/battle_matching/WIN_20181022_23_13_19_Pro-00000785.jpg)
 
 # battle_result
 試合後のジャッジくん～つづける・やめる選択肢まで
+
 ![image-battle_result](https://github.com/kamiyaowl/splat-scene-dataset/raw/master/battle_result/WIN_20181022_15_12_23_Pro-00000615.jpg)
 ![image-battle_result](https://github.com/kamiyaowl/splat-scene-dataset/raw/master/battle_result/WIN_20181022_15_12_23_Pro-00004938.jpg)
 ![image-battle_result](https://github.com/kamiyaowl/splat-scene-dataset/raw/master/battle_result/WIN_20181022_15_12_23_Pro-00004940.jpg)
 
 # battle_rule
 バトル開始直後のルールが表示されている画面
+
 ![image-battle_rule](https://github.com/kamiyaowl/splat-scene-dataset/raw/master/battle_rule/WIN_20181022_15_12_23_Pro-00000351.jpg)
 
 # battle_start
 ルール表示後の敵味方の武器表示～操作可能になるまで
+
 ![image-battle_start](https://github.com/kamiyaowl/splat-scene-dataset/raw/master/battle_start/WIN_20181022_15_12_23_Pro-00000358.jpg)
 ![image-battle_start](https://github.com/kamiyaowl/splat-scene-dataset/raw/master/battle_start/WIN_20181022_15_12_23_Pro-00000733.jpg)
 
 # loading
 読み込み画面遷移中と読み込み中
+
 ![image-loading](https://github.com/kamiyaowl/splat-scene-dataset/raw/master/loading/WIN_20181022_15_12_23_Pro-00000026.jpg)
 
 # menu
 Xボタンを押したときの画面
+
 ![image-menu](https://github.com/kamiyaowl/splat-scene-dataset/raw/master/menu/WIN_20181022_15_12_23_Pro-00005763.jpg)
 
 # other
 データ数が少なすぎたものをぶっこんだ
+
 ![image-other](https://github.com/kamiyaowl/splat-scene-dataset/raw/master/other/WIN_20181022_15_12_23_Pro-00008074.jpg)
 
 # salmon
+
 サーモンラン試合中すべて
 ![image-salmon](https://github.com/kamiyaowl/splat-scene-dataset/raw/master/salmon/WIN_20181022_15_12_23_Pro-00005851.jpg)
 
 # salmon_lobby
+
 サーモンランのロビーすべて
 ![image-salmon_lobby](https://github.com/kamiyaowl/splat-scene-dataset/raw/master/salmon_lobby/WIN_20181022_15_12_23_Pro-00005782.jpg)
 
 # salmon_matching
+
 サーモンランのマッチング中
 ![image-salmon_matching](https://github.com/kamiyaowl/splat-scene-dataset/raw/master/salmon_matching/WIN_20181022_15_12_23_Pro-00005789.jpg)
 
 # salmon_miss
+
 サーモンラン失敗時のKeep Outみたいなテープ表示
 ![image-salmon_miss](https://github.com/kamiyaowl/splat-scene-dataset/raw/master/salmon_miss/WIN_20181022_15_12_23_Pro-00006061.jpg)
 
 # salmon_result
+
 サーモンラン終了後からつづける・やめる選択肢まで
 ![image-salmon_result](https://github.com/kamiyaowl/splat-scene-dataset/raw/master/salmon_result/WIN_20181022_15_12_23_Pro-00006067.jpg)
 
 # salmon_start
+
 サーモンラン開始時のステージ紹介映像
 ![image-salmon_start](https://github.com/kamiyaowl/splat-scene-dataset/raw/master/salmon_start/WIN_20181022_15_12_23_Pro-00005820.jpg)
 
 # weapon_select
+
 武器選択画面
 ![image-weapon_select](https://github.com/kamiyaowl/splat-scene-dataset/raw/master/weapon_select/WIN_20181022_15_12_23_Pro-00000263.jpg)
