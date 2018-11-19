@@ -1,6 +1,6 @@
 # Splat Scene Dataset
 
-Splatoon2プレイ中の画像セット。[kamiyaowl/splat-scene-detect](https://github.com/kamiyaowl/splat-scene-detect)で使用するために作りました。
+Splatoon2プレイ中の画像セット。640*360のjpeg画像で構成されています。[kamiyaowl/splat-scene-detect](https://github.com/kamiyaowl/splat-scene-detect)で使用するために作りました。
 
 # 種類
 
@@ -84,36 +84,36 @@ Xボタンを押したときの画面
 ![image-other](https://github.com/kamiyaowl/splat-scene-dataset/raw/master/other/WIN_20181022_15_12_23_Pro-00008074.jpg)
 
 # salmon
-
 サーモンラン試合中すべて
+
 ![image-salmon](https://github.com/kamiyaowl/splat-scene-dataset/raw/master/salmon/WIN_20181022_15_12_23_Pro-00005851.jpg)
 
 # salmon_lobby
-
 サーモンランのロビーすべて
+
 ![image-salmon_lobby](https://github.com/kamiyaowl/splat-scene-dataset/raw/master/salmon_lobby/WIN_20181022_15_12_23_Pro-00005782.jpg)
 
 # salmon_matching
-
 サーモンランのマッチング中
+
 ![image-salmon_matching](https://github.com/kamiyaowl/splat-scene-dataset/raw/master/salmon_matching/WIN_20181022_15_12_23_Pro-00005789.jpg)
 
 # salmon_miss
-
 サーモンラン失敗時のKeep Outみたいなテープ表示
+
 ![image-salmon_miss](https://github.com/kamiyaowl/splat-scene-dataset/raw/master/salmon_miss/WIN_20181022_15_12_23_Pro-00006061.jpg)
 
 # salmon_result
-
 サーモンラン終了後からつづける・やめる選択肢まで
+
 ![image-salmon_result](https://github.com/kamiyaowl/splat-scene-dataset/raw/master/salmon_result/WIN_20181022_15_12_23_Pro-00006067.jpg)
 
 # salmon_start
-
 サーモンラン開始時のステージ紹介映像
+
 ![image-salmon_start](https://github.com/kamiyaowl/splat-scene-dataset/raw/master/salmon_start/WIN_20181022_15_12_23_Pro-00005820.jpg)
 
 # weapon_select
-
 武器選択画面
+
 ![image-weapon_select](https://github.com/kamiyaowl/splat-scene-dataset/raw/master/weapon_select/WIN_20181022_15_12_23_Pro-00000263.jpg)
